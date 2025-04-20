@@ -19,7 +19,7 @@ Each problem is stored in its own folder under `/problems`
 | 0002 | Add Two Numbers | Medium | [View](problems/0002_add-two-numbers/solution.js) |
 | 0003 | Longest Substring Without Repeating Characters | Medium | [View](problems/0003_longest-substring-without-repeating-characters/solution.js) |
 | 0004 | Median of Two Sorted Arrays | Hard | [View](problems/0004_median-of-two-sorted-arrays/solution.js) |
-
+| 0005 | Longest Palindromic Substring | Medium | [View](problems/0005_longest-palindromic-substring/solution.js) |
 
 <!-- Add more entries here as you go -->
 
