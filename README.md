@@ -22,6 +22,7 @@ Each problem is stored in its own folder under `/problems`
 | 0005 | Longest Palindromic Substring | Medium | [View](problems/0005_longest-palindromic-substring/solution.js) |
 | 0006 | Zigzag Conversion | Medium | [View](problems/0006_zigzag-conversion/solution.js) |
 | 0007 | Reverse Integer | Medium | [View](problems/0007_reverse-integer/solution.js) |
+| 0009 | Palindrome Number | Easy | [View](problems/0009_palindrome-number/solution.js) |
 
 ---
 
