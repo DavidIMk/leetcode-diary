@@ -26,6 +26,7 @@ Each problem is stored in its own folder under `/problems`
 | 0011 | Container With Most Water | Medium | [View](problems/0011_container-with-most-water/solution.js) |
 | 0013 | Roman to Integer | Easy | [View](problems/0013_roman-to-integer/solution.js) |
 | 0014 | Longest Common Prefix | Easy | [View](problems/0014_longest-common-prefix/solution.js) |
+| 0015 | 3 Sum | Medium | [View](problems/0015_3-sum/solution.js) |
 
 ---
 
