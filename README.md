@@ -27,6 +27,7 @@ Each problem is stored in its own folder under `/problems`
 | 0013 | Roman to Integer | Easy | [View](problems/0013_roman-to-integer/solution.js) |
 | 0014 | Longest Common Prefix | Easy | [View](problems/0014_longest-common-prefix/solution.js) |
 | 0015 | 3 Sum | Medium | [View](problems/0015_3-sum/solution.js) |
+| 0016 | Letter Combinations of a Phone Number | Medium | [View](problems/0016_letter-combinations-of-a-phone-number/solution.js) |
 
 ---
 
