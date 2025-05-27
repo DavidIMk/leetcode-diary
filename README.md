@@ -29,6 +29,7 @@ Each problem is stored in its own folder under `/problems`
 | 0015 | 3 Sum | Medium | [View](problems/0015_3-sum/solution.js) |
 | 0017 | Letter Combinations of a Phone Number | Medium | [View](problems/0017_letter-combinations-of-a-phone-number/solution.js) |
 | 0020 | Valid Parentheses | Easy | [View](problems/0020_valid-parentheses/solution.js) |
+| 0021 | Merge Two Sorted Lists | Easy | [View](problems/0021_merge-two-sorted-lists/solution.js) |
 
 ---
 
