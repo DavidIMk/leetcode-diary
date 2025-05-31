@@ -30,6 +30,7 @@ Each problem is stored in its own folder under `/problems`
 | 0017 | Letter Combinations of a Phone Number | Medium | [View](problems/0017_letter-combinations-of-a-phone-number/solution.js) |
 | 0020 | Valid Parentheses | Easy | [View](problems/0020_valid-parentheses/solution.js) |
 | 0021 | Merge Two Sorted Lists | Easy | [View](problems/0021_merge-two-sorted-lists/solution.js) |
+| 0022 | Generate Parentheses | Medium | [View](problems/0022_generate-parentheses/solution.js) |
 
 ---
 
