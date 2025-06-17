@@ -33,6 +33,7 @@ Each problem is stored in its own folder under `/problems`
 | 0022 | Generate Parentheses | Medium | [View](problems/0022_generate-parentheses/solution.js) |
 | 0026 | Remove Duplicates From Sorted Array | Easy | [View](problems/0026_remove-duplicates-from-sorted-array/solution.js) |
 | 0027 | Remove Element | Easy | [View](problems/0027_remove-element/solution.js) |
+| 0028 | Find the Index of the First Occurrence in a String | Easy | [View](problems/0028_find-the-index-of-the-first-occurrence-in-a-string/solution.js) |
 
 ---
 
