@@ -36,6 +36,7 @@ Each problem is stored in its own folder under `/problems`
 | 0028 | Find the Index of the First Occurrence in a String | Easy | [View](problems/0028_find-the-index-of-the-first-occurrence-in-a-string/solution.js) |
 | 0030 | Substring With Concatenation of All Words | Hard | [View](problems/0030_substring-with-concatenation-of-all-words/solution.js) |
 | 0035 | Search Insert Position | Easy | [View](problems/0035_search-insert-position/solution.js) |
+| 0036 | Valid Sudoku | Medium | [View](problems/0036_valid-sudoku/solution.js) |
 
 ---
 
