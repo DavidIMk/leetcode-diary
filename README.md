@@ -39,6 +39,7 @@ Each problem is stored in its own folder under `/problems`
 | 0036 | Valid Sudoku | Medium | [View](problems/0036_valid-sudoku/solution.js) |
 | 0049 | Group Anagrams | Medium | [View](problems/0049_group-anagrams/solution.js) |
 | 0053 | Maximum Subarray | Medium | [View](problems/0053_maximum-subarray/solution.js) |
+| 0058 | Length of Last Word | Easy | [View](problems/0058_length-of-last-word/solution.js) |
 
 ---
 
