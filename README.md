@@ -40,6 +40,7 @@ Each problem is stored in its own folder under `/problems`
 | 0049 | Group Anagrams | Medium | [View](problems/0049_group-anagrams/solution.js) |
 | 0053 | Maximum Subarray | Medium | [View](problems/0053_maximum-subarray/solution.js) |
 | 0058 | Length of Last Word | Easy | [View](problems/0058_length-of-last-word/solution.js) |
+| 0066 | Plus One | Easy | [View](problems/0066_plus-one/solution.js) |
 
 ---
 
