@@ -42,6 +42,7 @@ Each problem is stored in its own folder under `/problems`
 | 0058 | Length of Last Word | Easy | [View](problems/0058_length-of-last-word/solution.js) |
 | 0066 | Plus One | Easy | [View](problems/0066_plus-one/solution.js) |
 | 0069 | Sqrt(x) | Easy | [View](problems/0069_sqrtx/solution.js) |
+| 0070 | Climbing Stairs | Easy | [View](problems/0070_climbing-stairs/solution.js) |
 
 ---
 
