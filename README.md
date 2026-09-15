@@ -44,6 +44,7 @@ Each problem is stored in its own folder under `/problems`
 | 0069 | Sqrt(x) | Easy | [View](problems/0069_sqrtx/solution.js) |
 | 0070 | Climbing Stairs | Easy | [View](problems/0070_climbing-stairs/solution.js) |
 | 0078 | Subsets | Medium | [View](problems/0078_subsets/solution.js) |
+| 0079 | Word Search | Medium | [View](problems/0079_word-search/solution.js) |
 
 ---
 
