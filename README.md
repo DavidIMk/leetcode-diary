@@ -45,6 +45,7 @@ Each problem is stored in its own folder under `/problems`
 | 0070 | Climbing Stairs | Easy | [View](problems/0070_climbing-stairs/solution.js) |
 | 0078 | Subsets | Medium | [View](problems/0078_subsets/solution.js) |
 | 0079 | Word Search | Medium | [View](problems/0079_word-search/solution.js) |
+| 0083 | Remove Duplicates from Sorted List | Easy | [View](problems/0083_remove-duplicates-from-sorted-list/solution.js) |
 
 ---
 
