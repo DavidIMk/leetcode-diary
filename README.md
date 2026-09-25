@@ -50,6 +50,7 @@ Each problem is stored in its own folder under `/problems`
 | 0094 | Binary Tree Inorder Traversal | Easy | [View](problems/0094_binary-tree-inorder-traversal/solution.js) |
 | 0098 | Validate Binary Search Tree | Medium | [View](problems/0098_validate-binary-search-tree/solution.js) |
 | 0100 | Same Tree | Easy | [View](problems/0100_same-tree/solution.js) |
+| 0101 | Symmetric Tree | Easy | [View](problems/0101_symmetric-tree/solution.js) |
 
 ---
 
